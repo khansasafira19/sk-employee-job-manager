@@ -2,16 +2,15 @@
 Full Source Code for Employees' Jobs Management System
 
 ## DESCRIPTION
-This is a completely free source code (including database structure) for "Employees' Jobs Management System", a webapp I and my two friends developed using Yii2 Framework, MySQL Database, and AdminLTE3. The app consists of the Indonesian Language as my first language. But overall, it's easy to use since the code is mostly English. 
+This is a completely free source code (including database structure) for "Employees' Jobs Management System", a webapp I partially developed using Yii2 Framework, MySQL Database, and AdminLTE3. The app consists of the Indonesian Language as my first language. But overall, it's easy to use since the code is mostly English. 
 
 The features this app has are as follows:
-1. Phenomenon input (such as online news or printed newspaper, recorded to the database)
-2. Phenomena categorization (manual) into 24 categories
-3. Dashboard, snapshots on the database
-4. Monitoring, descriptive analysis of users' activity in phenomena management
-5. Dynamic tabulation for phenomena, aggregately or separately
-6. User management
-7. News crawling using Google CSE API and News API
+1. Task management (personal agenda, assignment, accross-team job)
+2. Employee presence report (and management)
+3. User management
+4. Executive summary
+5. Dashboard
+6. Team and project management
 
 ## HOW TO ENJOY
 Before using this code, you gotta make sure you have your local server ready (such xampp or wamp), IDE (I use VSCode), git and composer installed on your computer.
