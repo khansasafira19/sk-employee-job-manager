@@ -1,4 +1,4 @@
-# sk-employee-job-management
+# sk-employee-job-manager
 Full Source Code for Employees' Jobs Management System
 
 ## DESCRIPTION
@@ -16,15 +16,15 @@ The features this app has are as follows:
 Before using this code, you gotta make sure you have your local server ready (such xampp or wamp), IDE (I use VSCode), git and composer installed on your computer.
 
 1. Open your terminal in ```htdocs``` (if you use xampp) or ```www``` (if you use wamp)
-2. Run this code to clone the repo using ```git clone https://github.com/khansasafira19/sk-employee-job-management.git```
-3. Access the folder using ```cd sk-employee-job-management```, still in your terminal
+2. Run this code to clone the repo using ```git clone https://github.com/khansasafira19/sk-employee-job-manager.git```
+3. Access the folder using ```cd sk-employee-job-manager```, still in your terminal
 4. Run ```composer update``` to make everything run on the app (it is to fill up the vendor folder)
 5. Access your phpmyadmin, create a database, and name it "sk_ejm" or whatever you like. Then import the .sql file in ```root\sql``` folder.
 6. Make changes to the ```config\db.php``` file on the database connection, according to your setup.
-7. That's it, the app should run now. Access it on http://localhost/sk-employee-job-management/ using username ```admin``` and password ```admins```
+7. That's it, the app should run now. Access it on http://localhost/sk-employee-job-manager/ using username ```admin``` and password ```admins```
 
 ## PREVIEW
-More previews are available [here](https://github.com/khansasafira19/sk-employee-job-management/tree/master/demo-pics).
+More previews are available [here](https://github.com/khansasafira19/sk-employee-job-manager/tree/master/demo-pics).
 ![](demo-pics/login.png?raw=true)
 ![](demo-pics/dailyreport.png?raw=true)
 ![](demo-pics/executive-summary.png?raw=true)
